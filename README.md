@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" width="80%" alt="banner"/>
-</p>
-
 <h2 align="center">👋 안녕하세요, Backend Developer 김대민입니다.</h2>
 
 <p align="center">
