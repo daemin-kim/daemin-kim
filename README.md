@@ -38,14 +38,16 @@
 ### 🛠️ Skill Set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,aws,github,figma,notion&perline=8"/><br/>
-  <img src="https://img.shields.io/badge/SpringBoot-24292F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nginx-444444?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github Actions-24292F?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sonarqube-24292F?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dooray-444444?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,aws,github,figma,notion&perline=10"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dooray-0068B7?style=for-the-badge"/>
 </p>
+
 
 ---
 
