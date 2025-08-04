@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BC0EB,FAE588,FDE74C,9BC53D,E55934&height=210&section=header&text=Welcome%20to%20Kim%20Daemin's%20GitHub!&fontSize=38&fontAlignY=35&animation=twinkling" alt="main banner"/>
+  <!-- 흑백모드와 고대비에 잘 보이는 단색 기반 배너 사용 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,2C5364&height=210&section=header&text=Backend%20Developer&fontColor=FFFFFF&fontSize=38&fontAlignY=35&animation=twinkling" alt="main banner"/>
 </p>
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"> 
-  안녕하세요, <span style="color:#5BC0EB"><b>백엔드 개발자 김대민</b></span>입니다!
+  안녕하세요, <b>백엔드 개발자 김대민</b>입니다!
 </h2>
 
 <p align="center">
@@ -20,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5BC0EB&random=false&center=true&vCenter=true&width=440&lines=Backend+Developer;Continuous+Learner;Team+Player%2C+Leader;Java+%E2%80%A2+Spring+%E2%80%A2+AWS+%E2%80%A2+Docker+etc."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=10000&size=26&pause=1000&color=5BC0EB&random=false&center=true&vCenter=true&width=560&lines=Backend+Developer;Continuous+Learner;Team+Player%2C+Leader;Java+%E2%80%A2+Spring+%E2%80%A2+AWS+%E2%80%A2+Docker+etc."/>
 </div>
 
 ---
@@ -34,39 +35,38 @@
 
 ---
 
-### 🛠️ <span style="color:#FA7921;">Skill Set</span>
+### 🛠️ Skill Set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,aws,github,figma,notion&perline=8"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dooray-0068B7?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,aws,github,figma,notion&perline=8"/><br/>
+  <img src="https://img.shields.io/badge/SpringBoot-24292F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nginx-444444?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-24292F?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sonarqube-24292F?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dooray-444444?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🏆 <span style="color:#E55934;">Awards & Activities</span>
+### 🏆 Awards & Activities
 
 | 🥇 수상/활동 | 상세 내용 |
 |:---:|:---|
-| <span style="color:#E55934;">2024.12</span> | CNU SW 아카데미 정규과정 5기 <b>우수상</b> |
+| 2024.12 | CNU SW 아카데미 정규과정 5기 <b>우수상</b> |
 | 2024.09 | CNU Engineering Fair <b>장려상</b> |
 | 2024.06 | CNU SW/AI Project Fair <b>장려상</b><br>Attention 기반 circRNA HCC 예측 |
 | 2023.09 | SW 융합클러스터 2.0 DX 해커톤 <b>우수상</b><br>MZero(세대용어 번역기) |
-| 2023.06 | CNU 공공데이터 활용 경진대회 <b>장려상</b><br>대외활동 아카이빙 서비스 |
-| 2022.12 | 동계실무집중교육 <b>최우수상</b><br>최저가 픽업 주류 찾기 앱 |
-| 2023~2024 | 멋쟁이사자처럼 11-12기 (대표, 정규 교육 및 해커톤/아이디어톤) |
+| 2023.06 | CNU 공공데이터 활용 경진대회 <b>장려상</b> |
+| 2022.12 | 동계실무집중교육 <b>최우수상</b> |
+| 2023~2024 | 멋쟁이사자처럼 11-12기 (대표, 교육 & 해커톤/아이디어톤) |
 
 ---
 
-### 📝 <span style="color:#9BC53D;">Projects</span>
+### 📝 Projects
 
 <details>
-  <summary> <b>📚 흑백문고 (2024.10 ~ 2024.12)</b> - <i>온라인 서점 서비스, 백엔드 8명</i> </summary>
+  <summary><b>📚 흑백문고 (2024.10 ~ 2024.12)</b> - <i>온라인 서점 서비스, 백엔드 8명</i></summary>
   <ul>
     <li>주요 도메인 CRUD 및 도서 등록, 결제 기능 개발</li>
     <li>알라딘 API·Toss payments 연동, DB 설계, 트랜잭션 강화</li>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary> <b>🧠 MoodMate (2024.07 ~ 2024.08)</b> - <i>멘탈케어, 팀장</i> </summary>
+  <summary><b>🧠 MoodMate (2024.07 ~ 2024.08)</b> - <i>멘탈케어, 팀장</i></summary>
   <ul>
     <li>OpenAI API 기반 감정 분석, 챗봇 기능/DB 설계</li>
     <li>프로젝트 일정/구성원 조율, 실질적 리더십 경험</li>
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary> <b>🗂️ 충남대 역량 폼 미쳤다 (2023.04 ~ 2023.06)</b> - <i>공공데이터 아카이빙</i> </summary>
+  <summary><b>🗂️ 충남대 역량 폼 미쳤다 (2023.04 ~ 2023.06)</b> - <i>공공데이터 아카이빙</i></summary>
   <ul>
     <li>대외활동/학과 관심 CRUD, API 명세 및 DB 설계</li>
     <li>GitHub: <a href="https://github.com/cnu-data-contest">프로젝트 바로가기</a></li>
@@ -93,7 +93,7 @@
 
 ---
 
-### 🎓 <span style="color:#FDE74C;">Education</span>
+### 🎓 Education
 
 | 기간 | 내용 |
 |---|---|
@@ -105,14 +105,14 @@
 
 ---
 
-### 📃 <span style="color:#5BC0EB;">Certification & Language</span>
+### 📃 Certification & Language
 
 - 🏅 SQLD (한국데이터산업진흥원, 2023)
 - 🗣️ TOEIC Speaking IH (2025.06~2027.06)
 
 ---
 
-### 📫 <span style="color:#FA7921;">Contact</span>
+### 📫 Contact
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-kdm0068@gmail.com-red?style=for-the-badge&logo=gmail">
@@ -120,6 +120,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BC0EB,FAE588,FDE74C,9BC53D,E55934&height=120&section=footer"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,2C5364&height=120&section=footer"/>
+</p>
