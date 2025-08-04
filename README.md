@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Backend%20Developer%20Daemin%20Kim&fontSize=38&fontAlignY=35&animation=twinkling" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Backend%20Developer&fontSize=38&fontAlignY=35&animation=twinkling" alt="banner"/>
 </p>
 
 <h2 align="center">👋 안녕하세요, 백엔드 개발자 <b>김대민</b>입니다!</h2>
