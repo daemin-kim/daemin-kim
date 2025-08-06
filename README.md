@@ -120,8 +120,6 @@
   <img src="https://img.shields.io/badge/Email-kdm0068@gmail.com-red?style=for-the-badge&logo=gmail">
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,2C5364&height=120&section=footer"/>
 </p>
