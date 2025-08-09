@@ -77,7 +77,7 @@
 </details>
 
 <details>
-  <summary><b>🧠 MoodMate (2024.07 ~ 2024.08)</b> - <i>멘탈케어, 팀장</i></summary>
+  <summary><b>🧠 MoodMate (2024.07 ~ 2024.08)</b> - <i>멘탈케어 챗봇 프로젝트, 팀장</i></summary>
   <ul>
     <li>OpenAI API 기반 감정 분석, 챗봇 기능/DB 설계</li>
     <li>프로젝트 일정/구성원 조율, 실질적 리더십 경험</li>
